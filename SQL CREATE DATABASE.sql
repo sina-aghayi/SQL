@@ -1,0 +1,1 @@
+DROP DATABASE testD2B;
